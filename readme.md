@@ -6,7 +6,7 @@ Många som vill bedriva förening vill ansöka om finansiellt stöd från olika 
 
 Tyvärr underhålls inte denna tjänst. Detta drabbar verksamhetsutvecklare i idéburna projekt, och i längden demokratin.
 
-Vi behöver därför bygga en modern version av Länsstyrelsens Stiftelseregister.
+Vi behöver därför bygga en modern version av Länsstyrelsens Stiftelseregister, samt underhålla denna.
 
 2. Konstruera ett **PROOF OF CONCEPT** baserad på din synopsis
 3. **TESTA DIN IDÉ** genom att skicka den till Opener-medlemmar, förslagsvis på Slack
